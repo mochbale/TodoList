@@ -87,6 +87,10 @@ body {
   margin: 0;
   float: none;
   clear: both;
+  
+}
+.footer a{
+  text-decoration: none;
 }
 
 
